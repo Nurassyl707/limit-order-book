@@ -1,0 +1,10 @@
+build/
+build-*/
+cmake-build-*/
+perf-results/
+perf.data*
+*.o
+.vscode/
+.idea/
+.cache/
+compile_commands.json
